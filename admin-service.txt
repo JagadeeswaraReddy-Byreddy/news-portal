@@ -3,5 +3,3 @@ admin services started !
 admin can add users
 admin can delete users
 admin can modify the database
-
-admin changes are modified twice ok!
