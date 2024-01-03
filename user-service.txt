@@ -4,3 +4,5 @@ starts work processing
 
 
 creating an avatar
+
+user role is to login and logout
